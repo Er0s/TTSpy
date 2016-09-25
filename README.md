@@ -1,4 +1,4 @@
-#TTS-py 
+#TTSpy 
 
 Let Text to Speech
 
@@ -7,7 +7,7 @@ Let Text to Speech
 
 无需`任何`第三方库
 
-使用 **`Python pyf.py`**
+使用 **`Python ttspy.py`**
 ## TODO
 
 下一版本支持参数
