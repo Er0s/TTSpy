@@ -7,9 +7,7 @@ Let Text to Speech
 
 无需`任何`第三方库 **(只能在Windows下运行)**
 
-使用 **`Python TTSpy.py -T text -L lan`**
-
-            'ara' => '阿拉伯语',
+  'ara' => '阿拉伯语',
             'de' => '德语',
             'ru' => '俄语',
             'fra' => '法语',
@@ -26,7 +24,12 @@ Let Text to Speech
             'yue' => '粤语',
             'zh' => '中文' 
 
-## TODO
+#TODO
+
+使用 **`Python TTSpy.py -T text -L lan`**
+
+          
+:joy::joy:
 
 瞎写的,不会有下一版本...
 
