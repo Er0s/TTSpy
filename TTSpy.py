@@ -19,7 +19,7 @@ import os
 
 class TTSPY:
 
-    def TTS(self,text='HH',lan='en'):
+    def TTS(self,lan,text):
         self.text = urllib.quote(text)
         self.lan = lan
         self.filename ='temp.mp3'
@@ -35,9 +35,13 @@ prompt.prompt()
 if __name__ == '__main__':
     app = TTSPY()
     if len(argv) ==1:
-        app.text = raw_input("Enter your text:")
-        #app.lan = raw_input("Enter the:")
-        app.TTS()
+        app.lan = 'zh'
+        app.text ='abcdefghijklmnopqrstuvwxyz'
+        app.lan = raw_input("L:")
+        if app.lan == 'en':
+            app.text='HH'
+            
+        app.TTS(app.lan,app.text)
     else:
-        text = argv[2];lan = argv[4]
-        app.TTS(text,lan)
+        app.lan = argv[2];app.text=argv[4]
+        app.TTS(app.lan,app.text)
