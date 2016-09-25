@@ -6,6 +6,7 @@ Let Text to Speech
 ![](https://img.shields.io/badge/Python-2.7-brightgreen.svg)
 
 无需`任何`第三方库
+使用 **`Python pyf.py`
 # Contact me 
 ![](image/email_image.png)
 
