@@ -7,7 +7,7 @@ Let Text to Speech
 
 无需`任何`第三方库
 
-使用 **`Python ttspy.py`**
+使用 **`Python TTSpy.py`**
 ## TODO
 
 下一版本支持参数
