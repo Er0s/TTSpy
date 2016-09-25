@@ -3,7 +3,7 @@
 Let Text to Speech
 
 适用版本:
-![](https://img.shields.io/badge/Python-2.7-brightgreen.svg)
+![](https://img.shields.io/badge/Python-3.5-blue.svg)
 
 无需`任何`第三方库 **(只能在Windows下运行)**
 
