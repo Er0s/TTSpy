@@ -47,8 +47,12 @@ license:
 **en**
 
 - rinmin hao sheuundee.
+
 - chee put out buu tue putout pee,buu chee put out doll
+
 - more zombie, zombiebay lay pee
+
+- ne ma be ne ma be,ne shi da sha be,song bo qi a song bo qi,you mu you you mu you
 
 **de**
 
@@ -67,12 +71,18 @@ license:
 **jp**
 
 - にまび にまび にしだしゃび
+
 - にまびあにまび,さんぶちあさんぶち,さんぶちああああああ,よむよよむよ
+
 - パチパチパチパチパチパチ
 
 **ru**
 
 - ни ма би а ни ма би ни ши г да ша би шан бу ч а шан бу ч ю му ю ю му ю му ю
+
+**area**
+
+- غريب : تسألني أي سؤال 5 ، بغض النظر عن نوع الجنس أو اسم (المعنى أنا لست يائسة الطالب الذي يذاكر 
 
 #TODO
 
