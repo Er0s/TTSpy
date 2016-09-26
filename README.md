@@ -34,6 +34,10 @@ license:
 
 - 哦嘿菇狗翻溢，雷啊雷啊，抬举丽抖啦！，哦u汞滴猴嘿搞羞滴许哇，虽瘾哦母还猴歇汞广东娃，蛋嗨哦u汞呗雷听！哦丢雷过漏谋嗨！雷破该，累哼噶残，累哼噶玩允！
 
+- 桑伯奇怎的桑伯奇，偶桑你桑你桑到舔很案底，丹哈大格尼没怒有窄你还理，偶喊你喊你哈妮哈到刑辱鞋底
+
+- du du du du du du du du du du du du du aaaaaaaaaaaaaaaadu du du du du du du du du du du duaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fuck you!the motor cannot be use!!!!! damn it
+
 - wo z ni ma mai ma pee
 
 - chuie ni mala ger beee de G F W, wo ciao ni daaaaaah yea
@@ -54,6 +58,8 @@ license:
 
 - ne ma be ne ma be,ne shi da sha be,song bo qi a song bo qi,you mu you you mu you
 
+- nimabi nimabi niseudasabi sangbochiasangbochi yomoyoyomoyo
+
 **de**
 
 - choon ger choon yermern
@@ -70,11 +76,15 @@ license:
 
 **jp**
 
+- ニマビニマビニースます
+
 - にまび にまび にしだしゃび
 
 - にまびあにまび,さんぶちあさんぶち,さんぶちああああああ,よむよよむよ
 
 - パチパチパチパチパチパチ
+
+- ни ma би ни ma би ни ши гe дa шa би шaн бу ћи шaн бу ћи jу mу jу jу mу jу
 
 **ru**
 
@@ -83,6 +93,10 @@ license:
 **area**
 
 - غريب : تسألني أي سؤال 5 ، بغض النظر عن نوع الجنس أو اسم (المعنى أنا لست يائسة الطالب الذي يذاكر 
+
+**yue**
+
+- 嗯嗯嗯嫩嗯嗯嗯讷讷恩恩嫩恩恩恩呢嫩嗯嗯嗯嫩嗯嗯嗯恩恩呢嫩嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嫩嗯嗯嗯嗯呢嫩嗯嗯嗯呢嫩嫩恩额恩恩谔谔
 
 #TODO
 
