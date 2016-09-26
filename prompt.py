@@ -1,9 +1,9 @@
 def prompt():
     text = u'''
                     lan : [
-                              'ara' ,'de','ru' ,'fra' ,'kor',
-                              'nl' ,'pt' ,'jp' ,'th' ,'wyw' ,
-                              'spa' ,'el','it','en' ,'yue' ,'zh'
+                              'ara' ,'de','kor',
+                              ,'jp' ,'en' ,'yue' ,
+                                'zh'
                             ]
               '''
     print text
