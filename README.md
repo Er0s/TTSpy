@@ -28,22 +28,33 @@ license:
             'zh' => '中文' 
 **zh**
 
->因为，绳命，是剁么的回晃；绳命，是入刺的井猜。壤窝们，巩痛嘱咐碰优。田下冯广宰饿妹，饿妹冯广宰呲处。壤窝们，嘱咐这缩优类缩优。开心的一小，火大的一小，壤绳命，梗楤容，壤绳命，梗秤巩，壤绳命，梗回晃。”选中文。点朗读按钮!真心碉堡了
+- 因为，绳命，是剁么的回晃；绳命，是入刺的井猜。壤窝们，巩痛嘱咐碰优。田下冯广宰饿妹，饿妹冯广宰呲处。壤窝们，嘱咐这缩优类缩优。开心的一小，火大的一小，壤绳命，梗楤容，壤绳命，梗秤巩，壤绳命，梗回晃。”选中文。点朗读按钮!真心碉堡了
 
->鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯！淦！妈的烂机车发不动~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯
+- 鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯！淦！妈的烂机车发不动~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯~鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅嗯
 
-> 哦嘿菇狗翻溢，雷啊雷啊，抬举丽抖啦！，哦u汞滴猴嘿搞羞滴许哇，虽瘾哦母还猴歇汞广东娃，蛋嗨哦u汞呗雷听！哦丢雷过漏谋嗨！雷破该，累哼噶残，累哼噶玩允！
+- 哦嘿菇狗翻溢，雷啊雷啊，抬举丽抖啦！，哦u汞滴猴嘿搞羞滴许哇，虽瘾哦母还猴歇汞广东娃，蛋嗨哦u汞呗雷听！哦丢雷过漏谋嗨！雷破该，累哼噶残，累哼噶玩允！
+
+- wo z ni ma mai ma pee
+
+- chuie ni mala ger beee de G F W, wo ciao ni daaaaaah yea
+
+- haha tai hao wan la hia hia hia hiaa
+
+- abcdefghijklmnopqrstuvwxyz
+
+- Need yo ben shir chang nan ren,Need yo ben shir kai men na。kai men na,kai men na,kai men kai men kai men na,food when pe,food when pe,bie duzei li mian boochoosheng,wo zhi dao need zai zhia.
 
 **en**
->rinmin hao sheuundee.
 
->
+- rinmin hao sheuundee.
+- chee put out buu tue putout pee,buu chee put out doll
+- more zombie, zombiebay lay pee
 
 **de**
 
->choon ger choon yermern
+- choon ger choon yermern
 
->pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk bschk pv kkkkkkkkkk bschk bschk bschk pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk bschk pv kkkkkkkkkk bschk bschk bschk pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk bschk pv kkkkkkkkkk bschk bschk bschk pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk
+- pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk bschk pv kkkkkkkkkk bschk bschk bschk pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk bschk pv kkkkkkkkkk bschk bschk bschk pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk bschk pv kkkkkkkkkk bschk bschk bschk pv zk bschk pv zk pv bschk zk pv zk bschk pv zk pv bschk zk bschk pv bschk
 
 **kor**
 
@@ -57,6 +68,11 @@ license:
 
 - にまび にまび にしだしゃび
 - にまびあにまび,さんぶちあさんぶち,さんぶちああああああ,よむよよむよ
+- パチパチパチパチパチパチ
+
+**ru**
+
+- ни ма би а ни ма би ни ши г да ша би шан бу ч а шан бу ч ю му ю ю му ю му ю
 
 #TODO
 
